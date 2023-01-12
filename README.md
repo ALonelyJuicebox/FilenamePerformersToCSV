@@ -5,7 +5,7 @@
 
 **Parse performer names from your media filenames into CSV files for batch import into Stash!**
 
-This script (`FilenamePerformersToCSV.js`) exports performer names into a CSV file from your media files. This is a *great* tool if you need to batch import performers into your Stash for some reason.
+This script (`FilenamePerformersToCSV.ps1`) exports performer names into a CSV file from your media files. This is a *great* tool if you need to batch import performers into your Stash for some reason.
  
  
 ## Setup
