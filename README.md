@@ -18,6 +18,6 @@ This script (`FilenamePerformersToCSV.js`) exports performer names into a CSV fi
 - Paste the contents of your clipboard and click **Add New Performers**
  
 ## Additional Details 
-- Your files MUST align with what this script is expecting. Aka, the performer name followed by a dash indicating there are no more performer names. 
+- If there is a well known/well defined filename pattern not yet supported by this script, open an issue and let me know! 
 
 Hope this helps someone!
